@@ -32,7 +32,7 @@ int main()
 	/* REPLACE YOUR FILE PATH HERE */
 	// RECOMMENDED TO USE A FULL PATH
 	// Example: C:/Users/yourName/Desktop/fileName.png
-	string path = "C:/Users/Crolw/OneDrive/Desktop/pokerCards.jpg"; // Img to Convert
+	string path = "C:/Users/yourName/Desktop/fileName.png"; // Img to Convert
 
 	Mat img = imread(path);
 
