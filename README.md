@@ -10,13 +10,6 @@ I decided to create a small program to do this conversion process, and decided t
 ### Challenges Faced
 Several challenges I faced was figuring out how to change a certain color in an image into the ones I wanted to use. In the end, I managed to figure it out, and finish the program. I will say that the ranges I read for colors to convert is pretty basic, and hope to improve on this in the future to make a more precise identification of colors and conversions. I also plan to possibly make a UI for the program, so the program would be easier to use for everyone. One last thing I plan to improve upon is to maybe try and make the program faster.
 
-## Installation
-### Install OpenCV
-For this program to work, OpenCV must be installed, and downnloaded. Go to the OpenCV offcial site, and download the latest version. For reference, I used the Realese 4.7.0 version, but past or later versions may work as well.
-Here's the link to their page: https://opencv.org/releases/
-
-### Install the program
-
 ## Usage
 ### Getting Started
 First, open the sln file into visual studio or a text editor of your choice. Locate in the main.cpp, the string path variable, and follow the rules from there.
